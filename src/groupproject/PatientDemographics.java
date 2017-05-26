@@ -3699,7 +3699,7 @@ private boolean validateLab()
         getMedication();
         getVitals();
         
-        Path file=Paths.get("D:\\Users\\Team5CNIT350\\Desktop\\"+Incoming.GetLast()+"_"+Incoming.GetFirst()+".txt");
+        Path file=Paths.get("D:\\Users\\Vance\\Desktop\\"+Incoming.GetLast()+"_"+Incoming.GetFirst()+".txt");
         String print=" ";
         
         try
